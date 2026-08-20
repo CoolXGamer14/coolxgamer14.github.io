@@ -3,6 +3,7 @@ body {
   background-color: #222;
   color: white;
   margin: 30px;
+  text-align: center;
 }
 h1 {
   color: #2a8af7;
@@ -24,6 +25,20 @@ a:hover {
   color: #457ff5;
 }
 .about {
+  background-color: #333;
+  padding: 20px;
+  width: 480px;
+  margin: 0 auto;
+  text-align: center;
+}
+.interests {
+  background-color: #333;
+  padding: 20px;
+  width: 480px;
+  margin: 0 auto;
+  text-align: center;
+}
+.links {
   background-color: #333;
   padding: 20px;
   width: 480px;
