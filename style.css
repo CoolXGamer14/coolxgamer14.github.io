@@ -5,14 +5,14 @@ body {
   margin: 30px;
 }
 h1 {
-  color: red;
+  color: #2a8af7;
   font-size: 80px;
 }
 .normal {
   color: white;
 }
 .important {
-  color: red;
+  color: #2a6ef7;
 }
 img {
   width: 400px;
@@ -21,7 +21,7 @@ a {
   color: white;
 }
 a:hover {
-  color: red;
+  color: #457ff5;
 }
 .about {
   background-color: #333;
