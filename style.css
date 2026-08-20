@@ -16,3 +16,9 @@ h1 {
 img {
   width: 400px;
 }
+a {
+  color: white;
+}
+a:hover {
+  color: red;
+}
