@@ -4,6 +4,9 @@ h1 {
 p {
   color: blue;
 }
+.important {
+  color: red;
+}
 img {
   width: 400px;
 }
